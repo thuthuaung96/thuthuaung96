@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thu Thu Aung.
-- 👀 I’m interested in new learning things.
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning web development and UI/UX design.
 - 💞️ I’m looking to do on internship.
 - 📫 How to reach me .....
